@@ -5,7 +5,8 @@
 - 📫 How to reach me?, Go Jawa and find me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am gud person
-  
+- ✨ About me: I love coding :), and i will make games solo.
+- Objective: Go Toooo japaness and work theree!!
 
 <!---
 Dermawan-Evan-Kaisar/Dermawan-Evan-Kaisar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
